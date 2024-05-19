@@ -254,12 +254,13 @@ strong{
 }
 .container2{
     position: relative;
-    top: -13vw;
+    top: -35vw;
     z-index: 103;
     color: rgba(255, 255, 255, 200px);
     display: flex;
     color: black;
     margin: 1vh 30px 30px 30px ;
+    
 }
 .overviewimg{
     margin: 0px 30px 0px 30px;
@@ -328,7 +329,7 @@ h3{
 .foot{
     width: 120px;
     height: 70px;
-    margin: 30px;
+    margin: 1vw;
     display: flex;
     justify-content: center;
     align-content: center;
