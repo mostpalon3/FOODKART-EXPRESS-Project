@@ -35,7 +35,7 @@ li{
 }
 .left1{
     display: flex;
-    font-size: 0.8vw;
+    font-size: 0.9vw;
     position: absolute;
     top: 0.1vh;
     left: 12vw;
@@ -46,14 +46,14 @@ li{
 }
 #app{
     position: relative;
-    left: -33px;
+    left: -2vw;
 }
 .right1{
     display: flex;
     align-items: end;
     position: absolute;
     right: 12vw;
-    font-size: 1.006vw;
+    font-size: 1.306vw;
 }
 ul .right{
     padding-right: 2vw;
