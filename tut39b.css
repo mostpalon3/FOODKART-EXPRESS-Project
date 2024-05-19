@@ -254,12 +254,12 @@ strong{
 }
 .container2{
     position: relative;
-    top: -13vw;
+    top: -28vh;
     z-index: 103;
     color: rgba(255, 255, 255, 200px);
     display: flex;
     color: black;
-    margin: 1vh 30px 30px 30px ;
+    margin: 1vh 10px 30px 0px ;
     
 }
 .overviewimg{
@@ -327,9 +327,8 @@ h3{
     background-clip: text;
 }
 .foot{
-    width: 120px;
+    width: 24vw;
     height: 70px;
-    margin: 1vw;
     display: flex;
     justify-content: center;
     align-content: center;
