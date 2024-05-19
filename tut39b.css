@@ -2,6 +2,10 @@
     margin: 0px 0px;
     padding: 0px;
     box-sizing: border-box;
+    text-decoration: none;
+}
+html{
+    scroll-behavior: smooth;
 }
 body {
     display: flex;
@@ -338,4 +342,7 @@ h3{
 }
 .email{
     margin-top: 20px;
+}
+a{
+    color: white;
 }
